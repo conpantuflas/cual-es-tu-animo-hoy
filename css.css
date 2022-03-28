@@ -1,0 +1,16 @@
+
+img{
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    margin: 0 auto;
+    border: 1rem;
+    border-color: brown;
+    border-style: double ;
+}
+
+#boton{
+   width: 10rem;
+   margin-left: 38rem;
+   margin-top: 2rem;
+}
